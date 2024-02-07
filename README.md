@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-<h1 align="center">Payment imersao</h1>
+<h1 align="center">GO-rabbitmq</h1>
 
 <!-- ABOUT THE PROJECT -->
 <h2 tabindex="-1" dir="auto"><a id="user-content--about-the-project" class="anchor" aria-hidden="true" tabindex="-1" href="#about-the-project">🔭 About The Project 🔭</h2>
