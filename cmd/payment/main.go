@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"log/slog"
 
-	entity "github.com/DevMarlonFerreira/payment_imersao/internal"
-	"github.com/DevMarlonFerreira/payment_imersao/pkg/rabbitmq"
+	entity "github.com/DevMarlonFerreira/GO-rabbitmq/internal"
+	"github.com/DevMarlonFerreira/GO-rabbitmq/pkg/rabbitmq"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 
