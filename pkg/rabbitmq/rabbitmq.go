@@ -7,7 +7,7 @@ import (
 )
 
 func OpenChannel() (*amqp.Channel, error) {
-	conn, err := amqp.Dial("amqps://marlonferreira:6o536U12QCs1@b-c8a42d62-c823-4f13-aad5-3b28e571e22f.mq.sa-east-1.amazonaws.com:5671/smartranking")
+	conn, err := amqp.Dial("amqps://....")
 
 	if err != nil {
 		panic(err)
